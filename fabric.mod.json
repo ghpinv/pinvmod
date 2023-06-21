@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "pinv",
+  "version": "1.0.4",
+  "name": "Pinv Fabric",
+  "authors": [
+    "Pinv, MCreator"
+  ],
+  "contact": {
+    "homepage": "https://github.com/ghpinv/pinvmod/",
+    "sources": ""
+  },
+  "license": "Custom license",
+  "icon": "assets/pinv/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "pinv.PinvMod"
+    ],
+    "client": [
+      "pinv.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "mixins": [
+    "pinv.mixins.json"
+  ]
+}

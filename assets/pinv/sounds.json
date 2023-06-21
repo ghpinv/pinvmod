@@ -1,0 +1,22 @@
+{
+  "dedmede": {
+    "category": "music",
+    "subtitle": "subtitles.dedmede",
+    "sounds": [
+      {
+        "name": "pinv:dedmede",
+        "stream": true
+      }
+    ]
+  },
+  "toreality": {
+    "category": "music",
+    "subtitle": "subtitles.toreality",
+    "sounds": [
+      {
+        "name": "pinv:alalalalalaaollalaa",
+        "stream": true
+      }
+    ]
+  }
+}
