@@ -1,0 +1,19 @@
+{
+  "item.pinv.deoxyribonucleic_acid": "Deoxyribonucleic Acid",
+  "gui.pinv.commandgui.label_dev_gui": "Dev GUI",
+  "advancements.getoutahere.descr": "Have a Netherite Hoe in your inventory.",
+  "gui.pinv.dangerzone.label_danger_zone": "Danger Zone",
+  "gui.pinv.commandgui.button_play_dedmede_at_entity_location": "PlayMusic - Dedmede",
+  "gui.pinv.dangerzone.button_return_back": "RETURN BACK",
+  "advancements.upandready.descr": "Make a Netherite Block",
+  "item.pinv.dedmede": "Dedmede",
+  "subtitles.toreality": "Lamzzi - To Reality",
+  "advancements.upandready.title": "Way Too Rich",
+  "item.pinv.throwable_bomb": "Throwable Bomb",
+  "subtitles.dedmede": "Lamzzi - Dedmede",
+  "advancements.getoutahere.title": "Get Out Of Here",
+  "itemGroup.pinv.pinvall": "Pinv",
+  "item.pinv.dedmede.desc": "Lamzzi \u0026 Pinv - Dedmede",
+  "gui.pinv.commandgui.button_danger_zone": "DANGER ZONE",
+  "item.pinv.bomb": "Bomb"
+}
